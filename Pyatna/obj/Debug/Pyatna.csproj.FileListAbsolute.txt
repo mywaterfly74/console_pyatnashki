@@ -1,0 +1,18 @@
+C:\Users\Виталий\Documents\SharpDevelop Projects\Pyatna\Pyatna\obj\Debug\Pyatna.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Documents\SharpDevelop Projects\Pyatna\Pyatna\bin\Debug\Pyatna.exe.config
+C:\Users\Виталий\Documents\SharpDevelop Projects\Pyatna\Pyatna\bin\Debug\Pyatna.exe
+C:\Users\Виталий\Documents\SharpDevelop Projects\Pyatna\Pyatna\bin\Debug\Pyatna.pdb
+C:\Users\Виталий\Documents\SharpDevelop Projects\Pyatna\Pyatna\obj\Debug\Pyatna.exe
+C:\Users\Виталий\Documents\SharpDevelop Projects\Pyatna\Pyatna\obj\Debug\Pyatna.pdb
+C:\Users\student\Desktop\Pyatna\Pyatna\bin\Debug\Pyatna.exe.config
+C:\Users\student\Desktop\Pyatna\Pyatna\obj\Debug\Pyatna.exe
+C:\Users\student\Desktop\Pyatna\Pyatna\obj\Debug\Pyatna.pdb
+C:\Users\student\Desktop\Pyatna\Pyatna\bin\Debug\Pyatna.exe
+C:\Users\student\Desktop\Pyatna\Pyatna\bin\Debug\Pyatna.pdb
+C:\Users\student\Desktop\Pyatna\Pyatna\obj\Debug\Pyatna.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Pyatna\Pyatna\bin\Debug\Pyatna.exe.config
+C:\Users\Виталий\Desktop\Pyatna\Pyatna\bin\Debug\Pyatna.exe
+C:\Users\Виталий\Desktop\Pyatna\Pyatna\bin\Debug\Pyatna.pdb
+C:\Users\Виталий\Desktop\Pyatna\Pyatna\obj\Debug\Pyatna.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Pyatna\Pyatna\obj\Debug\Pyatna.exe
+C:\Users\Виталий\Desktop\Pyatna\Pyatna\obj\Debug\Pyatna.pdb
